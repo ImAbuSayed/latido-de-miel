@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latido-de-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Latido de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-miel/) |
+| **Get License** | [Obtain a Music License for Latido de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me tienes loco en la noche de Madrid
+> Dime al oído lo que quieres tú de mí
+> El ritmo sube, siento tu latido de miel
+> Nena, esta noche me adueño de tu piel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

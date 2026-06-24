@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latido-de-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Latido de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-miel/) |
+| **Get License** | [Commercial Licensing for Latido de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3de53e387068c5d4be5ff1a778b628dfddccfa86615d05d57c0b78e889053428` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
